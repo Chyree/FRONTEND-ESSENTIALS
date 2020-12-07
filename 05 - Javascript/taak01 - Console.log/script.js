@@ -1,0 +1,1 @@
+Mijn naam is <vul je eigen naam in> Dit is mijn eerste console bericht
