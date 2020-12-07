@@ -1,0 +1,41 @@
+/* Hier hoef je niks mee te doen */
+*{
+    font-size:0;
+}
+
+#container{
+    width: 900px;
+    height: 600px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+/* Hieronder kun je gaan editen */
+
+#links{
+    width: 400px;
+    height: 400px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+
+#rechts{
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    display: inline-block;
+}
+
+#rechtsonder{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+#rechtsboven{
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+    display: inline-block;
+}

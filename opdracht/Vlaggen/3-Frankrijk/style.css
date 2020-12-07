@@ -15,12 +15,20 @@
 #bovenkant{
     width: 800px;
     height: 250px;
-    background-color: white;
+    background-color: blue;
+    display: inline-block; property:
 }
 
 #onderkant{
-    width: 0px;
-    height: 0px;
-    background-color: red;
+    width: 800px;
+    height: 250px;
+    background-color: white;
+    display: inline-block; property:
 }
 
+#midden{
+    width: 800px;
+    height: 250px;
+    background-color: red;
+    display: inline-block; property:
+}
